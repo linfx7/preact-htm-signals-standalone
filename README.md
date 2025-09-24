@@ -4,7 +4,9 @@
 
 A single, standalone version of [Preact](https://github.com/preactjs/preact), [HTM](https://github.com/developit/htm) and [Preact Signals](https://github.com/preactjs/signals). No external dependencies, just one single file.
 
-One single file that you can use via [CDN](https://cdn.jsdelivr.net/npm/preact-htm-signals-standalone/dist/standalone.js) or [download locally](https://github.com/mujahidfa/preact-htm-signals-standalone/blob/main/dist/standalone.js) for offline use.
+One single file that you can use via [CDN](https://cdn.jsdelivr.net/npm/preact-htm-signals-standalone/dist/standalone.js) or [download locally](https://github.com/linfx7/preact-htm-signals-standalone/blob/main/dist/standalone.js) for offline use.
+
+**Forked from [mujahidfa/preact-htm-signals-standalone](https://github.com/mujahidfa/preact-htm-signals-standalone) , with major dependencies updated to the latest versions.**
 
 ## Usage
 
@@ -105,7 +107,7 @@ All rights belong to [Preact](https://github.com/preactjs/preact), [HTM](https:/
 Install and bundle them (via [Microbundle](https://github.com/developit/microbundle)):
 
 ```sh
-git clone https://github.com/mujahidfa/preact-htm-signals-standalone.git
+git clone https://github.com/linfx7/preact-htm-signals-standalone.git
 cd preact-htm-signals-standalone
 pnpm i
 pnpm bundle
