@@ -30,7 +30,7 @@ One single file that you can use via [CDN](https://cdn.jsdelivr.net/npm/preact-b
         <button onClick=${() => (count.value += 1)}>
           Increment with signal
         </button>
-        <p>Counter: ${count}</p>
+        <p>Counter: ${count.value}</p>
       </div>
     `;
   }
