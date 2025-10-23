@@ -39,8 +39,8 @@
     "hyperscript"
   ],
   "devDependencies": {
-    "@preact/signals": "^2.3.1",
-    "htm": "3.1.1",
+    "@preact/signals": "^2.3.2",
+    "htm": "^3.1.1",
     "microbundle": "^0.15.1",
     "preact": "^10.27.2"
   }
