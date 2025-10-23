@@ -1,5 +1,5 @@
 {
-  "name": "preact-aio",
+  "name": "preact-browser-bundle",
   "version": "10.27.2",
   "description": "A single, standalone version of Preact, HTM and Preact Signals. No external dependencies, just one single file.",
   "type": "module",
@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linfx7/preact-aio.git"
+    "url": "git+https://github.com/linfx7/preact-browser-bundle.git"
   },
-  "homepage": "https://github.com/linfx7/preact-aio",
+  "homepage": "https://github.com/linfx7/preact-browser-bundle",
   "keywords": [
     "preact signals",
     "signals",
